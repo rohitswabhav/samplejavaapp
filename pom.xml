@@ -24,7 +24,7 @@
     </repositories>
 
     <dependencies>
-        <!-- Vaadin Dependencies -->
+        <!-- Vaadin Dependencies Rohit Devikar -->
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin</artifactId>
