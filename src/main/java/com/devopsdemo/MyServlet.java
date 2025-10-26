@@ -1,8 +1,8 @@
 package com.devopsdemo;
 import java.io.IOException;
-import jakarta.servlet.http.HttpServlet;
-import jakarta.servlet.http.HttpServletRequest;
-import jakarta.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 //servlet
 
 public class MyServlet extends HttpServlet {
